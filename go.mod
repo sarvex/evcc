@@ -98,7 +98,7 @@ require (
 	golang.org/x/text v0.7.0
 	google.golang.org/api v0.111.0
 	google.golang.org/grpc v1.53.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.24.6
 )
